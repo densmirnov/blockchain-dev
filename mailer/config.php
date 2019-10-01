@@ -1,12 +1,12 @@
 <?php
 
-$my_email = 'my@email.com';
+$my_email = 'denis@artvolkov.ru';
 
 $SMTP = array(
     'enabled' => true,
     'host' => 'smtp.gmail.com',
-    'username' => 'user@gmail.com',
-    'password' => 'password12345',
+    'username' => 'denis@artvolkov.ru',
+    'password' => 'HBefx234',
     'port' => 465,
     'encryption' => 'ssl'
 );
